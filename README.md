@@ -1,6 +1,5 @@
 # reloj
 Este código en C++ crea un reloj digital que muestra la hora actual del sistema en tiempo real. Funciona de manera similar al código que viste previamente. Vamos a analizarlo paso a paso:
-
 El programa entra en un bucle while (true) que se ejecutará continuamente.
 
 Dentro del bucle, se obtiene la hora actual del sistema utilizando la función time(0), que devuelve el número de segundos transcurridos desde el 1 de enero de 1970 hasta el momento actual.
